@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gopub/log"
+	"github.com/golangpub/log"
 	"github.com/nyaruka/phonenumbers"
 )
 

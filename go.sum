@@ -4,12 +4,10 @@ github.com/golang/geo v0.0.0-20200319012246-673a6f80352d h1:C/hKUcHT483btRbeGkrR
 github.com/golang/geo v0.0.0-20200319012246-673a6f80352d/go.mod h1:QZ0nwyI2jOfgRAoBvP+ab5aRr7c9x7lhGEJrKvBwjWI=
 github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
 github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
-github.com/gopub/conv v0.3.1 h1:uRP7KGXo45NhdUXeBQdp9K4APjMV8z1t01ApQCAU5N4=
-github.com/gopub/conv v0.3.1/go.mod h1:OAog+Vown+go6heGhEj/5dcPE5JjHMIaus5kLvvnzxE=
-github.com/gopub/conv v0.3.2 h1:3ZhM6QDZbr69Wn3q4qSQxZJt1aa6GCCICpiO7JFMkD4=
-github.com/gopub/conv v0.3.2/go.mod h1:OAog+Vown+go6heGhEj/5dcPE5JjHMIaus5kLvvnzxE=
-github.com/gopub/log v1.2.0 h1:/MN2pPHuocexZ6irULUN40vC6R6/rNIKhHllAWLfwUU=
-github.com/gopub/log v1.2.0/go.mod h1:N7GzW/a2tgyQp/wSwd9YzUN5AbVB2G1yE7+nZUGL46A=
+github.com/golangpub/conv v0.3.3 h1:D9pwUjOXufjH9VI2QY0vhXSU4DT0Gy3yM1Yroe0opgU=
+github.com/golangpub/conv v0.3.3/go.mod h1:AS8kg03eNXWF0A2DBI//ek8yUdqiX4ujluee7jse130=
+github.com/golangpub/log v1.2.1 h1:zEMpkSLjVZEgmRBKK+kD5ZBGiogJjASzC0EOgjXLH2E=
+github.com/golangpub/log v1.2.1/go.mod h1:GQCBoIamGTI3N/DVWKrOFh8ym4tizXoFmJtPzo3B86A=
 github.com/nyaruka/phonenumbers v1.0.54 h1:vU9IUfiHrpu+lZcCkjEzDsCIdurQV8lxjrAdqW2osAU=
 github.com/nyaruka/phonenumbers v1.0.54/go.mod h1:sDaTZ/KPX5f8qyV9qN+hIm+4ZBARJrupC6LuhshJq1U=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

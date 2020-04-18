@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gopub/conv"
-	"github.com/gopub/log"
+	"github.com/golangpub/conv"
+	"github.com/golangpub/log"
 	"github.com/shopspring/decimal"
 )
 

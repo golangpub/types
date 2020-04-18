@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/gopub/conv"
+	"github.com/golangpub/conv"
 )
 
 var mu sync.RWMutex
